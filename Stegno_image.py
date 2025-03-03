@@ -6,9 +6,9 @@ from colorama import init
 import os
 import getpass
 import sys
-from Crypto.Cipher import AES  # type: ignore
-from Crypto.Hash import SHA256  # type: ignore
-from Crypto import Random  # type: ignore
+from Crypto.Cipher import AES  
+from Crypto.Hash import SHA256  
+from Crypto import Random  
 
 headerText = "M6nMjy5THr2J"
 
