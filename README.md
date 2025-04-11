@@ -10,7 +10,7 @@ Thank me later.!!
 
 Example of my project :- 
 
-![encode](https://github.com/nandanbhandary1/Video-Steganography/blob/main/Screenshot%202025-04-11%20230140.png)
+![encode](![Image](https://github.com/user-attachments/assets/aa970296-92c9-4fcc-bc1c-053ebcc93b50))
 
 
 ![decode](https://github.com/nandanbhandary1/Video-Steganography/blob/main/Screenshot%202025-04-11%20230424.png)
