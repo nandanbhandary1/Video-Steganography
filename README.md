@@ -10,10 +10,10 @@ Thank me later.!!
 
 Example of my project :- 
 
-![encode](https://user-images.githubusercontent.com/67770218/205626138-4806317f-1364-4c13-b0cc-752ffb17b4df.png)
+![encode](https://github.com/nandanbhandary1/Video-Steganography/blob/main/Screenshot%202025-04-11%20230140.png)
 
 
-![decode](https://user-images.githubusercontent.com/67770218/205626145-e1fd6b48-cb4a-4725-959f-9fee545bedc3.png)
+![decode](https://github.com/nandanbhandary1/Video-Steganography/blob/main/Screenshot%202025-04-11%20230424.png)
 
 If there is some error like :- "The system cannot not find the file specified output.mov".
 Then make sure first to install all library which are required by program (specially this error raised when you didn't install ffmepg).
